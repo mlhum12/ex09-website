@@ -3,11 +3,19 @@
 layout: default
 ---
 
-# This is a big header
+# Welcome to my Comp110 site
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Comp110 logo" width="500"/>
 
-## This is a small header
+## About this project
 
-This is basic paragraph text.
+This page is the homepage for my `ex09-website` GitHub Pages project.
+It is published at `https://mlhum12.github.io/ex09-website` and updates automatically when I push changes.
+
+### What you will find here
+
+- A personal introduction and course project summary.
+- A record of my Comp110 assignments and progress.
+- Links to other project pages and resources.
+
+Use Markdown in this file to add more sections, images, or project details.
