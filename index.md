@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# Welcome to My Comp110 Website
+# Welcome to Mikayla Humphrey's COMP110 Website
 
 <img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Comp110 logo" width="500"/>
 
