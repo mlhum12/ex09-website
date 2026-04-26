@@ -17,5 +17,6 @@ It is published at `https://mlhum12.github.io/ex09-website` and updates automati
 - A personal introduction and course project summary.
 - A record of my Comp110 assignments and progress.
 - Links to other project pages and resources.
+- [Data Analysis Notebook](analysis.html) - My EX09 data analysis with plots and insights.
 
 Use Markdown in this file to add more sections, images, or project details.
