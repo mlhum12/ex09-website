@@ -9,7 +9,7 @@ layout: default
 
 ## About this Project
 
-This website involves the data analysis I completed in order to determine ways to further improve the COMP110 course in the upcoming years. It consists of the process of how i chose my idea to analyze, the three visualizations I created, and a detailed reflection of what the visualizations showcased in regards to my idea and future improvements.
+This website involves the data analysis I completed in order to determine ways to further improve the COMP110 course in the upcoming years. It consists of the process of how I chose my idea to analyze, the three visualizations I created, and a detailed reflection of what the visualizations showcased in regards to my idea and future improvements.
 
 ### Choosing my Analysis
 
