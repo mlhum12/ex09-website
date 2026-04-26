@@ -3,20 +3,31 @@
 layout: default
 ---
 
-# Welcome to my Comp110 site
+# Welcome to My Comp110 Website
 
 <img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Comp110 logo" width="500"/>
 
-## About this project
+## About this Project
 
-This page is the homepage for my `ex09-website` GitHub Pages project.
-It is published at `https://mlhum12.github.io/ex09-website` and updates automatically when I push changes.
+This website involves the data analysis I completed in order to determine ways to further improve the COMP110 course in the upcoming years.
 
-### What you will find here
+### Choosing my Analysis
 
-- A personal introduction and course project summary.
-- A record of my Comp110 assignments and progress.
-- Links to other project pages and resources.
-- [Data Analysis Notebook](analysis.html) - My EX09 data analysis with plots and insights.
+Idea to analyze with available data: Idea 2 - The course should implement more psychology/neuroscience examples when coding in order to peak the interest of students in those majors.
 
-Use Markdown in this file to add more sections, images, or project details.
+This idea is more valuable than the others brainstormed because: I am able to analyze the data to see if my idea is supported because majors and interest levels were collected in the survey. I will be able to determine how interested psychology/neuroscience majors were in this course and see if there are ways to increase their interest levels in the upcoming years.
+
+#### Visualizations
+
+##### Visualization 1: Distribution Plot of Student Understanding
+
+This plot shows the distribution of student understanding ratings from the survey.
+
+##### Visualization 2: Box Plot Comparing Interest Ratings Across Different Majors
+
+This box plot compares interest ratings across different majors.
+
+##### Visualization 3: Scatter Plot Showing Relationship Between Difficulty and Value
+
+This scatter plot shows the relationship between perceived difficulty and value of the course.
+
