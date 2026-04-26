@@ -23,11 +23,17 @@ This idea is more valuable than the others brainstormed because: I am able to an
 
 This plot shows the distribution of student understanding ratings from the survey.
 
+![Visualization 1]({{ site.baseurl }}/static/imgs/viz1.png)
+
 ##### Visualization 2: Box Plot Comparing Interest Ratings Across Different Majors
 
 This box plot compares interest ratings across different majors.
 
+![Visualization 2]({{ site.baseurl }}/static/imgs/viz2.png)
+
 ##### Visualization 3: Scatter Plot Showing Relationship Between Difficulty and Value
 
 This scatter plot shows the relationship between perceived difficulty and value of the course.
+
+![Visualization 3]({{ site.baseurl }}/static/imgs/viz3.png)
 
